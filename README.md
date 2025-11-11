@@ -10,16 +10,12 @@ This project is an AI-driven report generation system that automatically creates
 * 📊 Self-contained Jupyter Notebook — no complex setup required
 
 ## 🛠️ Tech Stack
-* **Language:** Python
-* **Environment:** Jupyter Notebook
-* **Libraries:**
-  * `pydantic`
-  * `dotenv`
-  * `logging`
-  * `datetime`
-  * `tavily` (if used for web research)
-  * `langgraph`
-  * LLM API (e.g., OpenAI GPT)
+- **Language:** Python  
+- **Environment:** Jupyter Notebook  
+- **Framework:** LangGraph  
+- **Libraries:** Pydantic, Dotenv, Logging, Datetime, Tavily (for web research)  
+- **LLM API:** OpenAI GPT (for content generation)
+
 
 ## ⚙️ How It Works
 1. **Input a topic**
