@@ -31,7 +31,7 @@ This project is an AI-driven report generation system that automatically creates
 
 ## 🧩 Project Workflow
 
-![AI Report Generation Workflow](images/workflow-diagram.png)
+![AI Report Generation Workflow](images/workflow.png)
 
 
 ## 📦 Setup Instructions
