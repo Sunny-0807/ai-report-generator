@@ -29,7 +29,7 @@ This project is an AI-driven report generation system that automatically creates
    * Generates detailed content for each section
 3. **Outputs** a complete, well-formatted report ready for export or presentation.
 
-## 🧩 Project Workflow
+## 🧩 AI Report Generation Workflow
 
 ![AI Report Generation Workflow](images/workflow.png)
 
