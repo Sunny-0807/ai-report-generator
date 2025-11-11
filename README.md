@@ -31,15 +31,8 @@ This project is an AI-driven report generation system that automatically creates
 
 ## 🧩 Project Workflow
 
-```mermaid
-graph TD
-    A[User Inputs Topic] --> B[Schema Creation with Pydantic]
-    B --> C[Section Planning by Agent]
-    C --> D[Optional Web Research]
-    D --> E[LLM Generates Content]
-    E --> F[Structured Report Compilation]
-    F --> G[Final Output Report]
-```
+![AI Report Generation Workflow](images/workflow-diagram.png)
+
 
 ## 📦 Setup Instructions
 
